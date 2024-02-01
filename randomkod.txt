@@ -1,0 +1,7 @@
+Atıl hocanın Git&Github eğitimi izlendi.
+
+Komutlar not çıkarılacak.
+
+Öncelik ödevi hazırlamak.
+
+Ödev için masaüstüne klasör oluşturuldu ve dosyalar hazırlandı.
