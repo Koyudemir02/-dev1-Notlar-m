@@ -1,0 +1,1 @@
+VS Code denemesi için deneme dosyası.
